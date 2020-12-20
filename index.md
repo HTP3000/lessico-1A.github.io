@@ -29,4 +29,4 @@
 <li>teoria e pratica che hanno per oggetto l&rsquo;organizzazione e il governo dello stato; insieme dei fini cui tende uno stato e dei mezzi impiegati per raggiungerli.</li>
 <li>tutto ci&ograve; che riguarda la vita pubblica:<em> parlare, intendersi di politica</em>.</li>
 </ol>
-<p>[C. P.]</p>
+<p>[C.P.]</p>
