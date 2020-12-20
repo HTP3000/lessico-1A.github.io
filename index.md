@@ -1,5 +1,4 @@
 <p>Questo &egrave; l'elenco delle parole-chiave del lessico civile e politico elaborato dagli studenti della 1A.</p>
-<p>&nbsp;</p>
 <h2><strong>Anarchi</strong><strong>a</strong></h2>
 <p>n.f.<span style="font-weight: 400;"> (pl=</span><span style="font-weight: 400;"> -e</span><span style="font-weight: 400;">)</span></p>
 <p>1.&nbsp;<span style="font-weight: 400;">situazione di caos</span><span style="font-weight: 400;">, conseguente alla mancanza di governo.</span></p>
@@ -9,7 +8,8 @@
 <h2><strong>Anarchico</strong></h2>
 <p><span style="font-weight: 400;">n.m&nbsp;(pl <em>-ci</em>)</span></p>
 <p>1.&nbsp;<span style="font-weight: 400;">chi &egrave; insofferente a regole o a codici di comportamento stabiliti in un ambiente.</span></p>
-<h2>&nbsp;</h2>
+<p>[C.To.]</p>
+<p>&nbsp;</p>
 <h2><strong>Consenso</strong></h2>
 <p>n.m. (pl.=&nbsp;<em>-i</em>)</p>
 <ol>
