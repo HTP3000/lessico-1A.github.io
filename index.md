@@ -54,7 +54,7 @@
 <li><span style="font-weight: 400;">chi detiene il potere supremo di uno stato: re, sovrano.</span></li>
 </ol>
 <p><strong><span style="font-weight: 400;"><strong>Etimologia</strong> </span></strong><span style="font-weight: 400;">&larr; dal gr.<em> mon&aacute;rchēs</em>, comp. di<em>&nbsp;m&oacute;nos&nbsp;</em></span>&lsquo;solo, unico&rsquo; e<em>&nbsp;-&aacute;rchēs</em>, da&nbsp;<em>&aacute;rchein </em>&lsquo;governare, comandare&rsquo;.</p>
-<p>[N.P.]</p>
+<p>[S.M. & N.P.]</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Politica</strong></h2>
