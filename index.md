@@ -1,13 +1,17 @@
 <p>Questo &egrave; l'elenco delle parole-chiave del lessico civile e politico elaborato dagli studenti della 1A.</p>
 <h2><strong>Anarchi</strong><strong>a</strong></h2>
 <p>n.f.<span style="font-weight: 400;"> (pl=</span><span style="font-weight: 400;"> -e</span><span style="font-weight: 400;">)</span></p>
-<p>1.&nbsp;<span style="font-weight: 400;">situazione di caos</span><span style="font-weight: 400;">, conseguente alla mancanza di governo.</span></p>
+<ol>
+<li><span style="font-weight: 400;">situazione di caos</span><span style="font-weight: 400;">, conseguente alla mancanza di governo.</span></li>
+</ol>
 <p><span style="font-weight: 400;"><strong>Etimologia</strong> &larr; </span><span style="font-weight: 400;">dal</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">gr. </span><em><span style="font-weight: 400;">anarchia</span></em><span style="font-weight: 400;">, comp. di <em>an</em>- priv. e <em>archḗ</em>&nbsp;&ldquo;potere&rdquo;&nbsp;</span></p>
 <p><span style="font-weight: 400;">[C.To.]</span></p>
 <h2>&nbsp;</h2>
 <h2><strong>Anarchico</strong></h2>
 <p><span style="font-weight: 400;">n.m&nbsp;(pl <em>-ci</em>)</span></p>
-<p>1.&nbsp;<span style="font-weight: 400;">chi &egrave; insofferente a regole o a codici di comportamento stabiliti in un ambiente.</span></p>
+<ol>
+<li><span style="font-weight: 400;">chi &egrave; insofferente a regole o a codici di comportamento stabiliti in un ambiente.</span></li>
+</ol>
 <p>[C.To.]</p>
 <p>&nbsp;</p>
 <h2><strong>Consenso</strong></h2>
@@ -30,8 +34,10 @@
 <h2>&nbsp;</h2>
 <h2><strong>Demagogo</strong></h2>
 <p>n.m (f. =&nbsp;-<em>a</em>; pl.m. -<em>ghi</em>, f. -<em>ghe</em>)</p>
-<p><span style="font-weight: 400;">1. chi agisce con demagogia: nell&rsquo;antica Grecia, capopopolo, uomo politico</span><em><span style="font-weight: 400;">,sindacalista demagogo.</span></em></p>
-<p><span style="font-weight: 400;">2.nell&rsquo;antica Grecia, capopopolo, uomo politico</span></p>
+<ol>
+<li><span style="font-weight: 400;">chi agisce con demagogia: nell&rsquo;antica Grecia, capopopolo, uomo politico</span><em><span style="font-weight: 400;">,sindacalista demagogo.</span></em></li>
+<li><span style="font-weight: 400;">nell&rsquo;antica Grecia, capopopolo, uomo politico</span></li>
+</ol>
 <p><strong>Etimologia </strong>&larr; dal gr.<em><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">dē</span><span style="font-weight: 400;">mag</span><span style="font-weight: 400;">ō</span></em><span style="font-weight: 400;"><em>g&oacute;s</em>, comp. di </span><em><span style="font-weight: 400;">d&ecirc;mos</span></em><span style="font-weight: 400;"> &lsquo;popolo&rsquo; e </span><em><span style="font-weight: 400;">agō</span></em><span style="font-weight: 400;"><em>g&oacute;s</em> &lsquo;conduttore&rsquo;.</span></p>
 <p>[E.M.]</p>
 <h2>&nbsp;</h2>
@@ -42,3 +48,17 @@
 <li>tutto ci&ograve; che riguarda la vita pubblica:<em> parlare, intendersi di politica</em>.</li>
 </ol>
 <p>[C. P.]</p>
+<p>&nbsp;</p>
+<h2>Repubblica</h2>
+<p>n.f. (pl. =&nbsp;<em>-che</em>)</p>
+<ol>
+<li>sistema politico in cui la carica di capo dello stato non &egrave;&nbsp;ereditaria ma elettiva e temporanea, e il potere &egrave; esercitato da tutti i&nbsp;cittadini direttamente o per mezzo di rappresentanti liberamente&nbsp;scelti: la repubblica si contrappone alla monarchia.</li>
+<li>il territorio di uno stato repubblicano; la popolazione di uno stato&nbsp;repubblicano.</li>
+<li>ordinamento statuale della Roma antica nel periodo compreso tra&nbsp;la fine della monarchia e l&rsquo;inizio dell&rsquo;impero (509-31 a.C.); anche,&nbsp;nome di analoghi ordinamenti antichi: la repubblica ateniese | nel&nbsp;tardo medioevo, organismo statuale a governo pi&ugrave; o meno&nbsp;rappresentativo, non concentrato nelle mani di un monarca: le&nbsp;repubbliche marinare</li>
+</ol>
+<p><strong>Etimologia</strong>: &larr; dal lat. <em>rĕ(m) publĭca(m)</em> &lsquo;cosa pubblica&rsquo; e quindi&nbsp;&lsquo;stato&rsquo;.</p>
+<p>[B.C.]</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
