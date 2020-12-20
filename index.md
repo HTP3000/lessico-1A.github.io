@@ -49,7 +49,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Monarca</strong></h2>
-<p>n. m. e f</p>
+<p>n. m. e f. (pl.m.&nbsp;<em>-chi</em>, f.&nbsp;<em>-che</em>)</p>
 <ol>
 <li><span style="font-weight: 400;">chi detiene il potere supremo di uno stato: re, sovrano.</span></li>
 </ol>
