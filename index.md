@@ -7,16 +7,16 @@
 </ol>
 <p>&nbsp;</p>
 <p><strong>Etimologia</strong> &larr; dal lat. <em>consēnsu</em>(<em>m</em>), deriv. di <em>consentīre</em> &lsquo;consentire&rsquo;.</p>
-<p>[C.P.]</p>
+<p>[C.P]</p>
 <h2>&nbsp;</h2>
-<h2><strong>D</strong>emagogia</h2>
+<h2><strong>Demagogia</strong></h2>
 <p>n.f<strong>&nbsp;</strong>(pl.= -<em>gie</em>)</p>
 <ol>
 <li><span style="font-weight: 400;">l&rsquo;accattivarsi il favore delle masse popolari con discorsi semplici ma privi di sostanza e con promesse che non si possono mantenere:</span><em><span style="font-weight: 400;"> fare della demagogia</span></em><span style="font-weight: 400;">.</span></li>
 <li><span style="font-weight: 400;"> forma corrotta di democrazia in cui i governanti fanno promesse e concessioni al popolo al solo fine di mantenere il proprio potere, anche a danno degli interessi dello stato.</span></li>
 </ol>
 <p><strong>Etimologia </strong>&larr; dal gr. <em>dēmagōgh&iacute;a</em>, deriv. di <em>dēmagōg&oacute;s</em> &lsquo;demagogo&rsquo;.</p>
-<p>[C.P.]</p>
+<p>[C. P.]</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Demagogo</strong></h2>
@@ -32,4 +32,4 @@
 <li>teoria e pratica che hanno per oggetto l&rsquo;organizzazione e il governo dello stato; insieme dei fini cui tende uno stato e dei mezzi impiegati per raggiungerli.</li>
 <li>tutto ci&ograve; che riguarda la vita pubblica:<em> parlare, intendersi di politica</em>.</li>
 </ol>
-<p>[C.P.]</p>
+<p>[C. P.]</p>
