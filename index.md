@@ -7,7 +7,7 @@
 <li><span style="font-weight: 400;">situazione di caos</span><span style="font-weight: 400;">, conseguente alla mancanza di governo.</span></li>
 </ol>
 <p><span style="font-weight: 400;"><strong>Etimologia</strong> &larr; </span><span style="font-weight: 400;">dal</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">gr. </span><em><span style="font-weight: 400;">anarchia</span></em><span style="font-weight: 400;">, comp. di <em>an</em>- priv. e <em>archḗ</em>&nbsp;&ldquo;potere&rdquo;&nbsp;</span></p>
-<p><span style="font-weight: 400;">[C.To.]</span></p>
+<p><span style="font-weight: 400;">[C.To. & C.Tu.]</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Anarchico</strong></h2>
@@ -15,7 +15,7 @@
 <ol>
 <li><span style="font-weight: 400;">chi &egrave; insofferente a regole o a codici di comportamento stabiliti in un ambiente.</span></li>
 </ol>
-<p>[C.To.]</p>
+<p>[C.To. & C.Tu.]</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Assolutismo</strong></h2>
