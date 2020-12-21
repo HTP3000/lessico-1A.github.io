@@ -30,7 +30,7 @@
 <h2><strong>Consenso</strong></h2>
 <p>n.m. (pl.=&nbsp;<em>-i</em>)</p>
 <ol>
-<li>il consentire a una cosa richiesta; approvazione, assenso in generale [+ a]:<em> consenso scritto, orale</em>;<em> chiedere, ottenere, negare il consenso</em>;<em> i genitori hanno dato il consenso </em><strong><em>alla</em></strong><em> donazione degli organi</em>;<em> incontrare un largo consenso, un consenso unanime</em>.</li>
+<li>il consentire a una cosa richiesta; approvazione, assenso in generale.</li>
 <li>conformit&agrave; di voleri, di opinioni; accordo:<em> agire di consenso</em>, d&rsquo;accordo.</li>
 </ol>
 <p><strong>Etimologia</strong> &larr; dal lat. <em>consēnsu</em>(<em>m</em>), deriv. di <em>consentīre</em> &lsquo;consentire&rsquo;.</p>
