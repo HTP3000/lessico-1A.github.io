@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Anarchi</strong><strong>a</strong></h2>
-<p>n.f.<span style="font-weight: 400;"> (pl. = <em>-e</em>)</span></p>
+<p>n.f.<span style="font-weight: 400;"> (pl.= <em>-e</em>)</span></p>
 <ol>
 <li><span style="font-weight: 400;">situazione di caos</span><span style="font-weight: 400;">, conseguente alla mancanza di governo.</span></li>
 </ol>
@@ -11,7 +11,7 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Anarchico</strong></h2>
-<p><span style="font-weight: 400;">n.m&nbsp;(pl. = <em>-ci</em>)</span></p>
+<p><span style="font-weight: 400;">n.m&nbsp;(pl.= <em>-ci</em>)</span></p>
 <ol>
 <li><span style="font-weight: 400;">chi &egrave; insofferente a regole o a codici di comportamento stabiliti in un ambiente.</span></li>
 </ol>
