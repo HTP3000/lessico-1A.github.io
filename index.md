@@ -7,7 +7,7 @@
 <li><span style="font-weight: 400;">situazione di caos</span><span style="font-weight: 400;">, conseguente alla mancanza di governo.</span></li>
 </ol>
 <p><span style="font-weight: 400;"><strong>Etimologia</strong> &larr; </span><span style="font-weight: 400;">dal</span><span style="font-weight: 400;">&nbsp;</span><span style="font-weight: 400;">gr. </span><em><span style="font-weight: 400;">anarchia</span></em><span style="font-weight: 400;">, comp. di <em>an</em>- priv. e <em>archḗ</em>&nbsp;&ldquo;potere&rdquo;&nbsp;</span></p>
-<p><span style="font-weight: 400;">[C.To. & C.Tu.]</span></p>
+<p><span style="font-weight: 400;">[C.To. &amp; C.Tu.]</span></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Anarchico</strong></h2>
@@ -15,7 +15,7 @@
 <ol>
 <li><span style="font-weight: 400;">chi &egrave; insofferente a regole o a codici di comportamento stabiliti in un ambiente.</span></li>
 </ol>
-<p>[C.To. & C.Tu.]</p>
+<p>[C.To. &amp; C.Tu.]</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h2><strong>Assolutismo</strong></h2>
@@ -129,6 +129,14 @@
 </ol>
 <p>[C. P.]</p>
 <p>&nbsp;</p>
+<h2><strong>Populista</strong></h2>
+<p>agg.m., f. (pl.m. = -<em>i</em>, f. -<em>e</em>)</p>
+<ol>
+<li>chi &egrave; esponente o seguace del populismo.</li>
+<li>che riguarda il populismo; che rientra nell&rsquo;ideologia o nella tradizione del populismo: partito, movimento&nbsp;populista.</li>
+</ol>
+<p><br /><strong>Etimologia</strong>&nbsp;&larr;&nbsp;dall&rsquo;ingl. <em>populist</em>, deriv. del lat. <em>popŭlus</em> &lsquo;popolo&rsquo;; la voce<br />ingl. &egrave; calco del russo <em>narodnic</em>, da <em>narod</em> &lsquo;popolo&rsquo;.</p>
+<p>[S. G.]</p>
 <p>&nbsp;</p>
 <h2>Repubblica</h2>
 <p>n.f. (pl. =&nbsp;<em>-che</em>)</p>
